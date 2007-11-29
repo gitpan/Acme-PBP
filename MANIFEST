@@ -1,0 +1,11 @@
+lib/Acme/PBP.pm
+lib/Acme/PBP/Defeat.pm
+lib/Acme/PBP/Defeat/PerlTidyRC.pm
+lib/Acme/PBP/Enforce.pm
+Makefile.PL
+MANIFEST			This list of files
+MANIFEST.SKIP
+t/01_use.t
+t/02_defeat.t
+t/03_enforce.t
+META.yml                                 Module meta-data (added by MakeMaker)
